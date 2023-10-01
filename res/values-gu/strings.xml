@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helpdesk</string>
+    <string name="changed_language">ગુજ</string>
+    <string name="change_language">ભાષા બદલો</string>
+
+    <!--  for application names  -->
+    <string name="paytm">પેટીએમ</string>
+    <string name="gpay">ગૂગલ પે</string>
+    <string name="phonepay">ફોન પે</string>
+    <string name="bhim">ભીમ</string>
+    <string name="mobiwik">મોબીવિક</string>
+    <string name="amazon">અમેઝોન</string>
+
+    <string name="mobile_recharge">મોબાઇલ રિચાર્જ</string>
+    <string name="tv">કેબલ ટીવી</string>
+    <string name="credit_card">ક્રેડીટ કાર્ડ</string>
+    <string name="cylinder_gas">બુક સિલિન્ડર</string>
+    <string name="pipeline_gas">ગેસ પાઇપલાઇન</string>
+    <string name="electricity">વીજળી</string>
+    <string name="water">પાણી</string>
+    <string name="broad_band">બ્રોડબેન્ડ</string>
+    <string name="subscription">લવાજમ</string>
+    <string name="education">શિક્ષણ</string>
+    <string name="loan">લોનની ચુકવણી</string>
+    <string name="rent">ભાડાની ચુકવણી</string>
+    <string name="shopping">ખરીદી</string>
+    <string name="train">મેટ્રો</string>
+    <string name="pay">પે</string>
+    <string name="upi">upi</string>
+    <string name="add_money">પૈસા ઉમેરો</string>
+
+<!--    paytm recharge steps-->
+    <string name="step1_recharge">પેટીએમ એપ્લિકેશન ખોલ્યા પછી તમે મોબાઇલ આઇકોન સાથે "મોબાઇલ પ્રીપેડ" વિકલ્પ જોશો. પેટીએમ એપ્લિકેશન દ્વારા તમારા ફોનને રિચાર્જ કરવા માટે તેના પર ટેપ કરો. </string>
+    <string name="step2_recharge">આપેલા બોક્સમાં તમારે મોબાઇલ નંબર દાખલ કરવો પડશે જે તમે રિચાર્જ કરવા માંગો છો. ફક્ત બોક્સ પર ટેપ કરો અને તમારો 10 આંકડાનો મોબાઇલ નંબર દાખલ કરો.</string>
+    <string name="step3_recharge">તમે તમારા મોબાઇલ નંબર માટેની યોજનાઓ માટે પણ બ્રાઉઝ કરી શકો છો અથવા તમે તમારા મોબાઇલ નંબરને રિચાર્જ કરવા માંગો છો તે રકમ જાતે દાખલ કરી શકો છો. દરેક ટેલિકોમ કંપની આકર્ષક યોજનાઓ ધરાવે છે તેથી ખાતરી કરો કે તમે જાતે રકમ દાખલ કરતા પહેલા યોજનાઓ તપાસો છો.</string>
+    <string name="step4_recharge">રકમમાં ટાઇપ કર્યા પછી અથવા યોગ્ય યોજના પસંદ કર્યા પછી હવે તમારે પૃષ્ઠના તળિયે હાજર "રિચાર્જ માટે આગળ વધો" વિકલ્પ પર ટેપ કરવાની જરૂર છે.</string>
+    <string name="step5_recharge"> તમે ઇચ્છો તો કેટલીક કૂપન્સ પસંદ કરી શકો છો. કેટલાક પેમેન્ટ કૂપન્સ છે અને તેમાંથી કેટલાક મફત છે. તમે તેઓ ઓફર કરેલી ઓફર મુજબ કૂપનનો ઉપયોગ કરી શકો છો. છેવટે, હવે તમે "ચૂકવણી કરો" વિકલ્પ પર ટેપ કરી શકો છો.</string>
+    <string name="step6_recharge">જો તમારી પાસે તમારા પેટીએમ વોલેટમાં રકમ છે તો તમે "પેટીએમ વોલેટનો ઉપયોગ કરો" વિકલ્પ પસંદ કરી શકો છો અથવા તો ચૂકવણી કરવા માટે બીજા ઘણા વિકલ્પો છે. ઉદાહરણ તરીકે, ડેબિટ કાર્ડ, ક્રેડિટ કાર્ડ અને અન્ય. ચુકવણી પદ્ધતિ પસંદ કર્યા પછી "હવે ચૂકવણી કરો" વિકલ્પ પર ટેપ કરો.</string>
+    <string name="step7_recharge">જેવી તમારી ચુકવણીની ચકાસણી અને પૂર્ણ થશે તમને સુસેસ નો દરજ્જો મળશે (નીચેની છબીમાં બતાવ્યા મુજબ). તમારો મોબાઇલ નંબર હવે તમે પસંદ કરેલી રકમ અથવા યોજનાથી રિચાર્જ કરવામાં આવે છે.</string>
+
+    <!--    paytm payment steps-->
+    <string name="step1_pay">ચિત્રમાં દર્શાવ્યા મુજબ પે બટન પર ક્લિક કરો</string>
+    <string name="step2_pay">મોબાઇલ નંબર દાખલ કરો અથવા ક્યુઆર કોડ સ્કેન કરો</string>
+    <string name="step3_pay">રકમ દાખલ કરો</string>
+    <string name="step4_pay">પેટીએમવોલેટ અથવા પેટીએમવોલેટ પછી ઉલ્લેખિત તમારા બેંક ખાતામાંથી ચૂકવણી કરવા માટે પસંદ કરો</string>
+    <string name="step5_pay">જો તે નીચેના ચિત્રઉલ્લેખની જેમ ગ્રીન ટેબ બતાવે છે તો તમારી ચુકવણી સફળ રહી</string>
+    <string name="icici">આઈસીઆઈસીઆઈ</string>
+    <string name="kotak">કોટક</string>
+    <string name="paypal">પે-પાલ</string>
+    <string name="yono">યોનો</string>
+
+</resources>

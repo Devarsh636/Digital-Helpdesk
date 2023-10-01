@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Helpdesk</string>
+    <string name="changed_language">EN</string>
+    <string name="change_language">Change Language</string>
+
+    <!--  for application names  -->
+    <string name="paytm">PAYTM</string>
+    <string name="gpay">GPAY</string>
+    <string name="phonepay">PHONE PAY</string>
+    <string name="bhim">BHIM</string>
+    <string name="mobiwik">MOBIWIK</string>
+    <string name="amazon">AMAZON</string>
+    <string name="icici">ICICI</string>
+    <string name="kotak">KOTAK</string>
+    <string name="paypal">PAYPAL</string>
+    <string name="yono">YONO</string>
+
+    <!--  for activities user want to perform  -->
+    <string name="pay">Pay</string>
+    <string name="upi">UPI Transfer</string>
+    <string name="add_money">Add Money</string>
+    <string name="mobile_recharge">Mobile Recharge</string>
+    <string name="tv">Cable TV</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="cylinder_gas">Book Cylinder</string>
+    <string name="pipeline_gas">Gas Pipeline</string>
+    <string name="electricity">Electricity</string>
+    <string name="water">Water</string>
+    <string name="broad_band">Broad Band</string>
+    <string name="subscription">Subscribe</string>
+    <string name="education">Education</string>
+    <string name="loan">Loan Payment</string>
+    <string name="rent">Rent Payment</string>
+    <string name="shopping">Shopping</string>
+    <string name="train">Metro</string>
+
+<!--    paytm recharge steps -->
+    <string name="step1_recharge">After opening the paytm application you will see a "Mobile Prepaid" option with a mobile icon. Tap on it to recharge your phone through paytm application.</string>
+    <string name="step2_recharge">In the box given, you will need to enter the mobile number which you want to recharge. Just tap on the box and enter your 10-digit mobile number.</string>
+    <string name="step3_recharge">You can also browse for the plans for your mobile number or manually enter the amount by which you want to recharge your mobile number. Every telecom company has attractive plans so make sure you check out the plans before manually entering the amount.</string>
+    <string name="step4_recharge">After typing in the amount or choosing a suitable plan now you need to tap on the "Proceed to Recharge" option present at the bottom of the page</string>
+    <string name="step5_recharge"> You can choose some coupons if you want. There are some paid coupons and some of them are free. You can use the coupons accordingly the offer they give. Finally, you can now tap on the "Proceed to Pay"option.</string>
+    <string name="step6_recharge">If you have the amount in your paytm wallet then you can select the "Use Paytm Wallet" option or else there are many other options to pay. For example, Debit Card, Credit Card and others. After choosing the payment method tap on the "Pay now" option.</string>
+    <string name="step7_recharge">As soon as your payment is verified and done you will get a Sucess status (as shown in the image below). Your mobile number is now recharged with the amount or the plan you chose.</string>
+
+<!--    paytm payment steps-->
+    <string name="step1_pay">Click on the pay button as shown in image</string>
+    <string name="step2_pay">Enter the mobile number or scan QR code</string>
+    <string name="step3_pay">Enter the amount </string>
+    <string name="step4_pay">Select to pay from paytmwallet or your bank account mentioned after paytmwallet</string>
+    <string name="step5_pay">If it shows Green tab like in the image mention below then your payment was sucessfull</string>
+
+</resources>
